@@ -16,7 +16,7 @@ class App extends Component {
   render() {
     return (
       <div>
-        <h1>Car Collection</h1>
+        <h1>The Vintage Car Collection</h1>
         <h3>
           You can remove the cars that are not your favorites by clicking on
           "x".
